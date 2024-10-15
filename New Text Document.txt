@@ -1,1 +1,2 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobCheatEngine.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sdsdfsdfs/esp/refs/heads/main/Protected_2785228434592480.txt'))()
